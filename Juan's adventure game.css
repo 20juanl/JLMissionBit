@@ -1,8 +1,14 @@
 
 body {
-	background-color: black;
+	background-color: black; 
+ }
+p {     font: 20px Lucida Console;
+        color: blue;
 }
+
 h1 {
 	font: 50px Lucida Console,serif;
 	color: crimson;
 }
+
+
